@@ -1,6 +1,6 @@
 ### Hi there, I am Walker088 (Chun-Wei Chen) :wave:
 I'm currently working on the Paraguay HIS project which is hosted by Taiwan mission, ICDF. :paraguay: :taiwan:
-We develop a web-based system by Java, covering more than 30% of the public hospitals in Paraguay.
+We develop a web-based system by Java, covering more than 150 public hospitals, and serving more than 560 thousand patients monthly in Paraguay.
 
 I'm also interested in the distributed system and algorithm design, I was doing the blockchain consensus algorithm design and implementation in the NCCU Network System Design Lab, publishing  [MSig-BFT](https://ieeexplore.ieee.org/document/8644609/authors#authors) on The 2nd International Workshop on Blockchain Technologies and Systems.
 
@@ -15,7 +15,6 @@ I'm also interested in the distributed system and algorithm design, I was doing 
 - <walker088@walker088.tw>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Walker088&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Walker088&theme=dark&layout=compact)
 
 
 <!--
